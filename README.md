@@ -17,4 +17,16 @@ Automatización industrial: En la automatización industrial, se puede utilizar 
 
 #Object Tracker
 
+Este programa tiene como objetivo principal realizar el seguimiento de objetos en tiempo real utilizando una cámara web. Su importancia radica en su capacidad para aplicaciones de visión por computadora y seguimiento de objetos en movimiento. Algunas posibles aplicaciones incluyen:
+
+Detección de objetos en video vigilancia: Puede utilizarse en sistemas de seguridad para detectar y seguir objetos de interés en una escena, como vehículos o personas sospechosas.
+
+Automatización industrial: En entornos industriales, puede utilizarse para seguir el movimiento de piezas o productos en una línea de producción.
+
+Robótica: Se puede implementar en robots autónomos para que sigan objetos o realicen tareas específicas.
+
+Realidad aumentada: Puede mejorar las aplicaciones de realidad aumentada al permitir que los objetos virtuales se superpongan y se relacionen con objetos del mundo real.
+
+Juegos interactivos: Puede ser útil en juegos interactivos donde los jugadores pueden interactuar con objetos virtuales o personajes en tiempo real.
+
 
